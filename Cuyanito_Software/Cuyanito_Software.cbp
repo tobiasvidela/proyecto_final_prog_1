@@ -31,9 +31,32 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="busqueda.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="busqueda.h" />
+		<Unit filename="company.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="company.h" />
+		<Unit filename="empleados.dat" />
+		<Unit filename="empresas.dat" />
+		<Unit filename="funciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="reparaciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reparaciones.dat" />
+		<Unit filename="reparaciones.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
