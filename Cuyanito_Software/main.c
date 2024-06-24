@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "funciones.h"
-#include "menu.h"
+#include "./funciones.h"
+#include "./menu.h"
 
 int main(void) {
   int opcion;
@@ -11,7 +11,7 @@ int main(void) {
     limpiarConsola();
     menu();
     //elegir opcion
-    printf("\n\n\t Seleccione una opciÃ³n: ");
+    printf("\n\n\t Seleccione una opción: ");
     opcion = leerEntero();
     //imprimir opcion seleccionada
     limpiarConsola();
