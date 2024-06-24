@@ -1,2 +1,13 @@
 # Cuyanito Software v2
-La idea principal de los directivos es crear un sistema donde se registre cada reparaciÛn realizada por los tÈcnicos. Por el momento desean abarcar solo 3 Rubros: - PCs de escritorio ñ Notebooks ñ Celulares Adem·s, para estos tres rubros debe estar identificado si la reparaciÛn fue hecha por un problema de hardware o software. 
+La idea principal de los directivos es crear un sistema donde se registre cada reparaci√≥n realizada por los t√©cnicos. 
+## Requerimientos
+Por el momento desean abarcar solo 3 Rubros:
+- PCs de escritorio 
+- Notebooks 
+- Celulares
+
+Adem√°s, para estos tres rubros debe estar identificado si la reparaci√≥n fue hecha por un problema de hardware o software.
+
+---
+
+*Garc√≠a Nicol√°s, Videla Tob√≠as.*
